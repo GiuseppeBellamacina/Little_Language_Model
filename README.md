@@ -101,10 +101,6 @@ print(decode(generated_ids[0].tolist()))
 
 DanteGPT is trained on a text corpus that includes a selection of classical Italian literature, primarily focusing on Dante Alighieri’s *Divine Comedy*.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The Transformer model architecture is based on the paper: ["Attention is All You Need"](https://arxiv.org/abs/1706.03762).
